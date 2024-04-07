@@ -2,8 +2,7 @@ A Note on Explicit Expressions for Moments of Order Statistics - R code
 ================
 Marcos A. C. Santos
 
-R code used in “A Note on Explicit Expressions for Moments of Order
-Statistics”, Spanish Journal Of Statistics, Vol. 3, 1,2021, paged 45-53
+This repository contains the R code that was used in Castellares F, Lemonte A. J., Santos, M.A. “A Note on Explicit Expressions for Moments of Order Statistics”, Spanish Journal Of Statistics, Vol. 3, 1,2021
 
 ``` r
 # General expression - power series s
